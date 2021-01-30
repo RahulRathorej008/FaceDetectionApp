@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911778376544",
+    "firebase_url": "https://face-detection-470a1.firebaseio.com",
+    "project_id": "face-detection-470a1",
+    "storage_bucket": "face-detection-470a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911778376544:android:ff2a1ffd61834785cacc05",
+        "android_client_info": {
+          "package_name": "com.example.facedetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911778376544-3ltv3m4hdhdhpjp1r8faqq3rdp85uvue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-g9Z1ynST26szIUiW-7ncuhIwgUBlug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911778376544-3ltv3m4hdhdhpjp1r8faqq3rdp85uvue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
